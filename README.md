@@ -1,2 +1,2 @@
-# lucus-FX.github.io
+# fanxiangxiong.github.io
 Personal academic homepage
